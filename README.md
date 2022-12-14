@@ -1,6 +1,6 @@
 
 ### 👋 Hi there, this is @sharon
-- 🎓 An Electrical and Computer Engineering graduate student at University of Waterloo
+- 🎓 An Electrical and Computer Engineering graduate student @University of Waterloo
 - 👩🏻‍💻 Currently a software engineer intern@Planet XR, previous software engineer intern@Volvo Cars
 - 💞️ Looking for a full-time software engineer job in Canada
 - 📷 Street photographer
