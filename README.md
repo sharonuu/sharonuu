@@ -2,7 +2,7 @@
 ### 👋 Hi there, this is @sharon
 - 🎓 ECE @University of Waterloo
 - 👩🏻‍💻 Software Engineer
-- 📷 Street photographer ins@sharon_xu.png
+- 📷 Street photographer
 - 💖 Video Game, Anime, Swiftie
 - 📫 Reach out me shuonixu@gmail.com
 
