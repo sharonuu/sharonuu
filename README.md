@@ -1,8 +1,9 @@
 
 ### 👋 Hi there, this is @sharon
 - 🎓 ECE @University of Waterloo
-- 👩🏻‍💻 Currently a software engineer @WBD, previous software engineer intern@Planet XR, @Volvo Cars 
-- 📷 Street photographer
+- 👩🏻‍💻 Software Engineer
+- 📷 Street photographer ins@sharon_xu.png
+- 💖 Video Game, Anime, Swiftie
 - 📫 Reach out me shuonixu@gmail.com
 
 
